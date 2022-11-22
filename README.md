@@ -1,3 +1,27 @@
+Common React CLI
+------------------		
+		
+npm start		
+
+npx react-scripts build	
+
+npx create-react-app my-app4 --template typescript		
+		
+		
+npm install react-redux 		
+
+npm install redux@4.1.0		
+
+npm install @reduxjs/toolkit		
+		
+npm install sass		
+
+npm i -D react-router-dom		
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
